@@ -5,7 +5,6 @@ end
 def my_hash
   hash = {
     fruit: "apple"
-    veggie: "cucumber"
   }
 end
 
